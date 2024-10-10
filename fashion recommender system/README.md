@@ -1,5 +1,4 @@
 # Personalized Fashion Recommender system
-
 Fast fashion retailers quickly bring designs from the catwalk to consumers, resulting in a daily influx of new clothing options. This can be overwhelming and time-consuming for shoppers trying to find their favorite pieces. A recommender system can address this challenge by providing personalized clothing recommendations based on user preferences.
 
 However, several factors complicate the recommendation process:
@@ -12,7 +11,7 @@ Key considerations include:
 User Satisfaction with Similar Styles: Users may not appreciate being recommended clothing in the same style, color, or pattern as what they have previously purchased.
 Effectiveness of KNN Model: A K-nearest neighbors (KNN) model may not cater to diverse user preferences, leading to suboptimal recommendations.
 Image-Based Preference Model: While this approach helps address the cold start problem, it may limit the discovery of new styles that users might also enjoy.
-While predicting user satisfaction is possible through defined evaluation methods, accurately capturing human emotions and preferences remains a complex challenge. This project aims to enhance user satisfaction by employing a variety of effective recommendation models.
+
 
 
 
