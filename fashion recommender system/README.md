@@ -15,13 +15,6 @@ Image-Based Preference Model: While this approach helps address the cold start p
 
 
 
-## Similarity based Recommender system
-
-### Similarity Model Architecture
-![ex_screenshot](./img/example3.jpg)
-##
-### Item Recommendation Example
-![ex_screenshot](./img/example.JPG)
 
 ## Model based Recommender System
 
